@@ -8,11 +8,14 @@ JavaScript and JSON with Ray Villalobos >> http://www.lynda.com/JavaScript-tutor
 JavaScript ES6 Fundamentals             >> http://code.tutsplus.com/courses/javascript-es6-fundamentals
 Exploring ES6                           >> http://exploringjs.com/es6/
 
-
 JSbooks                                 >> http://jsbooks.revolunet.com/
 
-# Currently Reading
+# To Read
 
+
+# Currently Reading
+Understanding ECMAScript 6
+Eloquent Javascript
 
 # Read Books
 Javascript Design Patterns
